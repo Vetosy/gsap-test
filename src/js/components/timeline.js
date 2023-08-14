@@ -2,10 +2,10 @@
 // let tl = gsap.timeline()
 // let btn = document.querySelector('.hero__btn')
 
-// gsap.from('.site-container', {
-//   opacity: 0,
-//   duration: 0.5
-// })
+// // gsap.from('.site-container', {
+// //   opacity: 0,
+// //   duration: 0.5
+// // })
 
 // tl.from('.header', {
 //   opacity: 0,
