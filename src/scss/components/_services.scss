@@ -1,0 +1,24 @@
+.services {
+  padding: 100px 0;
+  background-color: rgb(136, 13, 13);
+
+  * {
+    color: white;
+  }
+
+  .accordion__item {
+    @include mb(50px);
+
+    background-color: black;
+    padding: 20px 10px;
+  }
+
+  // .accordion__top {
+  //   margin-bottom: 40px;
+  // }
+
+  .accordion__bottom {
+    overflow: hidden;
+    height: 0;
+  }
+}
